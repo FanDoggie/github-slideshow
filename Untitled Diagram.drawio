@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T08:13:09.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="wV5x-U0v-XO-N6Ihvcar" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T09:19:35.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="bMho6keqtvEA_P-awzQ6" version="15.7.0" type="github">
   <diagram id="PhO16UAb1bBxQCCEMA57" name="Page-1">
-    <mxGraphModel dx="827" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="570" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QKnaf-TpBjBNKZryYlam-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QKnaf-TpBjBNKZryYlam-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="410" width="80" height="80" as="geometry" />
+        <mxCell id="wGLRBGFEHYjUbP7ZM2yr-5" value="牛个体信息表" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
