@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T09:16:15.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="dHoRwzzPD9RDxoY61Z2S" type="github"><diagram id="c5Hga34MgAIfPkMllmZF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-15T09:22:57.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="dCs0EzQp5a8PTG-b9dZL" version="15.7.0" type="github">
+  <diagram id="c5Hga34MgAIfPkMllmZF" name="Page-1">
+    <mxGraphModel dx="827" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="knBLOVk-_73UNCO8CTzH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="knBLOVk-_73UNCO8CTzH-1" target="knBLOVk-_73UNCO8CTzH-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="125" y="610" />
+              <mxPoint x="125" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="knBLOVk-_73UNCO8CTzH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="knBLOVk-_73UNCO8CTzH-1" target="knBLOVk-_73UNCO8CTzH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="knBLOVk-_73UNCO8CTzH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.018;entryY=0.634;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="knBLOVk-_73UNCO8CTzH-1" target="knBLOVk-_73UNCO8CTzH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="knBLOVk-_73UNCO8CTzH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="knBLOVk-_73UNCO8CTzH-1" target="knBLOVk-_73UNCO8CTzH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="knBLOVk-_73UNCO8CTzH-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="610" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="knBLOVk-_73UNCO8CTzH-2" value="2&lt;br&gt;养羊系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="knBLOVk-_73UNCO8CTzH-3" value="4&lt;br&gt;养蜂系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="knBLOVk-_73UNCO8CTzH-4" value="1&lt;br&gt;养猪系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="knBLOVk-_73UNCO8CTzH-5" value="3&lt;br&gt;养牛系统" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
