@@ -1,11 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T09:19:35.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="bMho6keqtvEA_P-awzQ6" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T07:27:07.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="E--n-vR4-uaciIix9kZX" version="15.7.0" type="github">
   <diagram id="PhO16UAb1bBxQCCEMA57" name="Page-1">
-    <mxGraphModel dx="570" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="689" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wGLRBGFEHYjUbP7ZM2yr-5" value="牛个体信息表" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="150" width="90" height="30" as="geometry" />
+        <mxCell id="wGLRBGFEHYjUbP7ZM2yr-5" value="牛个体信息表" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="350" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-y7OaiIlYvrfuH1-HBK-1" value="牛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A-y7OaiIlYvrfuH1-HBK-2" value="3.1&lt;br&gt;身份认证" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="155" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A-y7OaiIlYvrfuH1-HBK-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="180" as="sourcePoint" />
+            <mxPoint x="290" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-y7OaiIlYvrfuH1-HBK-4" value="购进单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-y7OaiIlYvrfuH1-HBK-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="A-y7OaiIlYvrfuH1-HBK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="189.58" as="sourcePoint" />
+            <mxPoint x="190" y="189.58" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-y7OaiIlYvrfuH1-HBK-7" value="个体智能项圈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-y7OaiIlYvrfuH1-HBK-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.392;entryY=1.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A-y7OaiIlYvrfuH1-HBK-2" target="wGLRBGFEHYjUbP7ZM2yr-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="170" as="sourcePoint" />
+            <mxPoint x="420" y="120" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
