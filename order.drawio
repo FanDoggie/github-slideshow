@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T04:18:51.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="I2Qlf1okrLsyp_4fvR6y" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T11:42:56.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="onq9Lo0BxXRMZEiWpdgg" version="21.3.2" type="github">
   <diagram name="第 1 页" id="fzuUsol6OjBSLkcCX3z2">
-    <mxGraphModel dx="4498" dy="643" grid="0" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="4146" dy="454" grid="0" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,13 +132,13 @@
         <mxCell id="X6BrA908ev0YL4UzkUb7-20" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="261" y="1004" width="60" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="X6BrA908ev0YL4UzkUb7-21" value="菜单管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="X6BrA908ev0YL4UzkUb7-21" value="菜品管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="373" y="1001" width="60" height="139" as="geometry" />
         </mxCell>
         <mxCell id="X6BrA908ev0YL4UzkUb7-22" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="489" y="1001" width="60" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="X6BrA908ev0YL4UzkUb7-23" value="个人信息管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="X6BrA908ev0YL4UzkUb7-23" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="1001" width="60" height="139" as="geometry" />
         </mxCell>
         <mxCell id="Q_25oTYDYkzHp-j34K_7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Q_25oTYDYkzHp-j34K_7-1" target="Q_25oTYDYkzHp-j34K_7-2" edge="1">
