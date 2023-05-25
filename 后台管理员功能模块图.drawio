@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T07:17:13.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="Y7DEDCzVAUnuWpLycwhX" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T07:23:38.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GJfFttEPN-V7sWG78zfs" version="21.3.2" type="github">
   <diagram name="第 1 页" id="BLXrDIgTMfZ1B3edFqj5">
-    <mxGraphModel>
+    <mxGraphModel dx="1307" dy="609" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sGhDT-3xKtJLLVPg9BTa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sGhDT-3xKtJLLVPg9BTa-6" target="sGhDT-3xKtJLLVPg9BTa-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sGhDT-3xKtJLLVPg9BTa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sGhDT-3xKtJLLVPg9BTa-6" target="sGhDT-3xKtJLLVPg9BTa-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="297" />
+              <mxPoint x="298" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGhDT-3xKtJLLVPg9BTa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sGhDT-3xKtJLLVPg9BTa-6" target="sGhDT-3xKtJLLVPg9BTa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sGhDT-3xKtJLLVPg9BTa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sGhDT-3xKtJLLVPg9BTa-6" target="sGhDT-3xKtJLLVPg9BTa-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="295" />
+              <mxPoint x="526" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGhDT-3xKtJLLVPg9BTa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sGhDT-3xKtJLLVPg9BTa-6" target="sGhDT-3xKtJLLVPg9BTa-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="296" />
+              <mxPoint x="642" y="296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGhDT-3xKtJLLVPg9BTa-6" value="后台管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="184" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sGhDT-3xKtJLLVPg9BTa-7" value="管理员登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="156" y="347" width="60" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="sGhDT-3xKtJLLVPg9BTa-8" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="343" width="60" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="sGhDT-3xKtJLLVPg9BTa-9" value="菜品管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="60" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="sGhDT-3xKtJLLVPg9BTa-10" value="订单管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496" y="340" width="60" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="sGhDT-3xKtJLLVPg9BTa-11" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="340" width="60" height="139" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
